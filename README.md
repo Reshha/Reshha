@@ -4,8 +4,6 @@
   <li>Currently freshman @ University of Santo Tomas</li>
 </ul>
 
-<br/>
-
 <h2>Current tech stack</h2>
 <ul>
   <li>React.js</li>
@@ -15,7 +13,7 @@
 
 <h2>Socials</h2>
 <ul>
-  <li>Personal Website: <a href="reshha.github.io">reshha.github.io</a></li>
+  <li>Personal Website: <a href="https://www.reshha.github.io">reshha.github.io</a></li>
   <li>LinkedIn: https://www.linkedin.com/in/lowell-asher-leal-7459592b1/</li>
   <li>IG/X: @dev.reshha</li>
 </ul>
