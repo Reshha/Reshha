@@ -1,7 +1,7 @@
 ## Hey, Lowell Asher Leal here 👋👋👋
 <ul>
   <li>React developer</li>
-  <li>Currently freshman @ University of Santo Tomas</li>
+  <li>Currently BSIT freshman @ University of Santo Tomas</li>
 </ul>
 
 <h2>Current tech stack</h2>
