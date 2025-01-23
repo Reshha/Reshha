@@ -1,4 +1,4 @@
-## Hey, Lowell Asher Leal is here 👋👋👋
+## Hey, Lowell Asher Leal here 👋👋👋
 <ul>
   <li>React developer</li>
   <li>Currently freshman @ University of Santo Tomas</li>
