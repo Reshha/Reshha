@@ -6,7 +6,6 @@
 
 <h2>Current tech stack</h2>
 <ul>
-  <li>React.js</li>
   <li>Svelte</li>
   <li>Typescript</li>
   <li>SASS/SCSS + CSS Modules</li>
