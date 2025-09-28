@@ -13,7 +13,7 @@
 
 <h2>Socials</h2>
 <ul>
-  <li>Personal Website: <a href="https://reshha.github.io/reshha-portfolio">reshha.github.io/reshha-portfolio</a></li>
+  <li><a href="https://reshha.vercel.app">reshha.vercel.app</a></li>
   <li>LinkedIn: https://www.linkedin.com/in/lowell-asher-leal-7459592b1/</li>
   <li>IG/X: @dev.reshha</li>
 </ul>
