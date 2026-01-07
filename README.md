@@ -1,7 +1,11 @@
-<h1>Hello There 👋👋👋</h1>
+<h1>Hello There, I'm Asher 👋👋👋</h1>
 <hr>
 
-<p>I'm Lowell Asher Leal, A 2nd year student BSIT student from University of Santo Tomas.</p>
+<p>A 2nd year student BSIT student from University of Santo Tomas.</p>
 
-![Static Badge](https://img.shields.io/badge/-%2361DAFB?style=flat&logo=react&logoColor=rgb(255%2C%20255%2C%20255)&logoSize=60)
+## 🛠️ **Technologies & Tools**
+[![typescript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
